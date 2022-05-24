@@ -1,6 +1,6 @@
 # Automated test example in Java with Cucumber and Selenium WebDriver #
 
-This project is an example of UI automated functional test for Google home page and search using Selenium and Cucumber.
+This project is an example of UI automated functional test for todoList app using Selenium and Cucumber.
 
 Test scenarios are described in the feature files located here ./src/test/resources/com/automatedtest/sample.
 
